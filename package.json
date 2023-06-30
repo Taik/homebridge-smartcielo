@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "homebridge-config-ui-x": "^4.50.2",
-    "node-smartcielo-ws": "^1.1.2"
+    "node-smartcielo-ws": "github:taik/node-cielo#thinh--fix-deviceTypeVersion"
   },
   "devDependencies": {
     "@types/node": "^16.10.9",
